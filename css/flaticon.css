@@ -29,6 +29,8 @@
 
 .flaticon-number-8-key-on-keyboard:before {
     content: "\f100";
+    font-size: 18px;
+    line-height: 18px;
 }
 
 .flaticon-pie:before {
